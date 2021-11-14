@@ -1,4 +1,5 @@
 # Java-Calculator
-Groupe Members:
-1-Kuestan Mhyadin
-2- Vana Fakhir
+### **Groupe Members:**
+
+- Kuestan Mhyaddin
+- Vana Fakhir
